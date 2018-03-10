@@ -1,18 +1,11 @@
 Search Genius.com for current iTunes Track 
 ===========================================
-
- 
-
-![](logo.jpg)
-
- 
+![](logo.jpg  =300)
 
 ### Description
 
 Use this script to find lyrics and liner notes for your current playing track in
 iTunes.
-
- 
 
 ### How to Use
 
@@ -24,8 +17,6 @@ more details)
 
 If there is no "Scripts" folder in the **[username]/Library/iTunes/** folder,
 create one.
-
- 
 
 [2] Open **iTunes**, click the **Scripts** icon, select **“Search iTunes”**.
 That’s it!
