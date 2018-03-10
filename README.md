@@ -1,6 +1,6 @@
 Search Genius.com for current iTunes Track 
 ===========================================
-![](logo.jpg  =300)
+![](logo.jpg  =300x)
 
 ### Description
 
