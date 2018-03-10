@@ -1,6 +1,9 @@
-Search Genius.com for current iTunes Track 
-===========================================
-![](logo.jpg  =300x)
+Search Genius.com for current iTunes Track
+==========================================
+
+![](logo.jpg)
+
+ 
 
 ### Description
 
@@ -22,3 +25,5 @@ create one.
 That’s it!
 
 ![](screenshot.png)
+
+ 
